@@ -7,3 +7,7 @@
 ```
 print("Library system closed.")
 ```
+
+- [ ] Create tomorrow's lesson
+- [ ] Finish grading essays
+- [x] Assign words for word tracing project 
